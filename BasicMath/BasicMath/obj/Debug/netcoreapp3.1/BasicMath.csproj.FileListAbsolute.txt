@@ -1,0 +1,13 @@
+C:\Users\gma61\source\repos\BasicMath\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.exe
+C:\Users\gma61\source\repos\BasicMath\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.deps.json
+C:\Users\gma61\source\repos\BasicMath\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.runtimeconfig.json
+C:\Users\gma61\source\repos\BasicMath\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.runtimeconfig.dev.json
+C:\Users\gma61\source\repos\BasicMath\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.dll
+C:\Users\gma61\source\repos\BasicMath\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.pdb
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.AssemblyInfoInputs.cache
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.AssemblyInfo.cs
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.dll
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.pdb
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.genruntimeconfig.cache
+C:\Users\gma61\source\repos\BasicMath\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.csprojAssemblyReference.cache
