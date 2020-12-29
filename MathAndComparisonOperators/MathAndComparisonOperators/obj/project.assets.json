@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gma61\\source\\repos\\MathAndComparisonOperators\\MathAndComparisonOperators\\MathAndComparisonOperators.csproj",
+      "projectUniqueName": "C:\\Users\\gma61\\Desktop\\C# Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\MathAndComparisonOperators.csproj",
       "projectName": "MathAndComparisonOperators",
-      "projectPath": "C:\\Users\\gma61\\source\\repos\\MathAndComparisonOperators\\MathAndComparisonOperators\\MathAndComparisonOperators.csproj",
+      "projectPath": "C:\\Users\\gma61\\Desktop\\C# Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\MathAndComparisonOperators.csproj",
       "packagesPath": "C:\\Users\\gma61\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gma61\\source\\repos\\MathAndComparisonOperators\\MathAndComparisonOperators\\obj\\",
+      "outputPath": "C:\\Users\\gma61\\Desktop\\C# Projects\\MathAndComparisonOperators\\MathAndComparisonOperators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gma61\\AppData\\Roaming\\NuGet\\NuGet.Config",
