@@ -1,0 +1,14 @@
+C:\Users\gma61\source\repos\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\gma61\source\repos\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\gma61\source\repos\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\gma61\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\gma61\source\repos\DoWhile\DoWhile\obj\Debug\DoWhile.pdb
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\obj\Debug\DoWhile.csprojAssemblyReference.cache
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\gma61\Desktop\C# Projects\DoWhile\DoWhile\obj\Debug\DoWhile.pdb
