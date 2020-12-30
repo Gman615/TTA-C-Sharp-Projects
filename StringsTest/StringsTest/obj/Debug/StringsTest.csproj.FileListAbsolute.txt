@@ -1,0 +1,7 @@
+C:\Users\gma61\source\repos\StringsTest\StringsTest\bin\Debug\StringsTest.exe.config
+C:\Users\gma61\source\repos\StringsTest\StringsTest\bin\Debug\StringsTest.exe
+C:\Users\gma61\source\repos\StringsTest\StringsTest\bin\Debug\StringsTest.pdb
+C:\Users\gma61\source\repos\StringsTest\StringsTest\obj\Debug\StringsTest.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\StringsTest\StringsTest\obj\Debug\StringsTest.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\StringsTest\StringsTest\obj\Debug\StringsTest.exe
+C:\Users\gma61\source\repos\StringsTest\StringsTest\obj\Debug\StringsTest.pdb
