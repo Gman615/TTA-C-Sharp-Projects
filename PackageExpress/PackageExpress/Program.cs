@@ -28,7 +28,7 @@ namespace PackageExpress
                 int dimensions = height1 + length1 + width1;                
                 if (dimensions <= 50) 
                 {
-                    int price = (dimensions * weight1) / 100;
+                    int price = ((width1 * length1 * height1) * weight1) / 100;
                     Console.WriteLine("Your estimated total for shipping this package is: $" + price + "\nThank You");
                 }
                 else 
