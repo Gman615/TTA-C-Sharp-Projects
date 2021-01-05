@@ -9,19 +9,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        string[] textArrays = new string[4];
+        string[] textArrays = new string[4] { "Cheddar ", "Romano ", "Parmesan ", "Monterey Jack " };
         Console.WriteLine("Write something to add to an array");
+        string input = Console.ReadLine();
+
         for (int i = 0; i < textArrays.Length; i++)
         {
-            string add = Console.ReadLine();
-            textArrays[i] = add;
+            textArrays[i] += input;
+            Console.WriteLine(textArrays[i]);
         }
-        foreach (string textArray in textArrays)
 
-
-        {
-            Console.WriteLine(textArray);
-        }
         int loop = 0;
         while (loop < 15)
         {
@@ -75,12 +72,21 @@ class Program
             }
         }
         List<string> vehicles = new List<string>() { "car", "truck", "van", "crossover", "truck", "airplane", "van" };
-        List<string> distinct = vehicles.Distinct().ToList();
-
-        foreach (string vehicle in distinct)
+        List<string> vehicles1 = new List<string>();
+        foreach (string vehicle in vehicles)
         {
-            Console.WriteLine(vehicle + " is not already in the list");          
+            if (vehicles1.Contains(vehicle) == false)
+            {
+                vehicles1.Add(vehicle);
+                Console.WriteLine(vehicle + " is not already on the list");
+            }
+            else 
+            {
+                Console.WriteLine(vehicle + " is already on the list");
+            }
         }
+        
+        
 
 
 
