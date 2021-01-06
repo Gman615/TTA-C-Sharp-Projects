@@ -14,10 +14,8 @@ namespace VoidMethod
             int num1 = 5;
             int num2 = 10;
             voidMath.VMath(num1, num2);
-            voidMath.VMath(10, 2);
+            voidMath.VMath(num1: 15, num: 2);
             Console.ReadLine();
-
-
         }
     }
 }
