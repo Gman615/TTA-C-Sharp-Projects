@@ -1,0 +1,7 @@
+C:\Users\gma61\source\repos\OptParameters\OptParameters\bin\Debug\OptParameters.exe.config
+C:\Users\gma61\source\repos\OptParameters\OptParameters\bin\Debug\OptParameters.exe
+C:\Users\gma61\source\repos\OptParameters\OptParameters\bin\Debug\OptParameters.pdb
+C:\Users\gma61\source\repos\OptParameters\OptParameters\obj\Debug\OptParameters.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\OptParameters\OptParameters\obj\Debug\OptParameters.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\OptParameters\OptParameters\obj\Debug\OptParameters.exe
+C:\Users\gma61\source\repos\OptParameters\OptParameters\obj\Debug\OptParameters.pdb
