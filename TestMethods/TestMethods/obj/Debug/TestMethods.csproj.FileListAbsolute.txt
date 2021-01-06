@@ -1,0 +1,7 @@
+C:\Users\gma61\source\repos\TestMethods\TestMethods\bin\Debug\TestMethods.exe.config
+C:\Users\gma61\source\repos\TestMethods\TestMethods\bin\Debug\TestMethods.exe
+C:\Users\gma61\source\repos\TestMethods\TestMethods\bin\Debug\TestMethods.pdb
+C:\Users\gma61\source\repos\TestMethods\TestMethods\obj\Debug\TestMethods.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\TestMethods\TestMethods\obj\Debug\TestMethods.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\TestMethods\TestMethods\obj\Debug\TestMethods.exe
+C:\Users\gma61\source\repos\TestMethods\TestMethods\obj\Debug\TestMethods.pdb
