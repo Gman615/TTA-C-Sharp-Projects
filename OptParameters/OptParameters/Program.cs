@@ -12,7 +12,7 @@ namespace OptParameters
         {
             Console.WriteLine("Pick a number for this math equation");
             int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Pick another number for this math equation (note: you do not have to pick anything)");
+            Console.WriteLine("Pick another number for this math equation (note: to leave blank enter 0, input optional)");
             int num2 = Convert.ToInt32(Console.ReadLine());
             
             int answer;
