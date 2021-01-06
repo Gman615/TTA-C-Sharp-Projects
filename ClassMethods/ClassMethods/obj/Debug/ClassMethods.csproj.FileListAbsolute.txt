@@ -1,0 +1,7 @@
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\Users\gma61\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb
