@@ -5,3 +5,10 @@ C:\Users\gma61\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.
 C:\Users\gma61\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\gma61\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\gma61\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\gma61\Desktop\C# Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
