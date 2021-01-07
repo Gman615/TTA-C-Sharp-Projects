@@ -8,9 +8,10 @@ namespace AbstractClass
 {
     public abstract class Person
     {
+        public List<Person> Persons { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
-
+        
         public abstract void SayName(); 
  
 
