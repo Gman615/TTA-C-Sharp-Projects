@@ -12,14 +12,8 @@ namespace EmployeeOverload
         {
             Employee ID1 = new Employee(0001);
             Employee ID2 = new Employee(0002);
-            if(ID1 == ID2) 
-            {
-                Console.WriteLine("The ID numbers are equal");
-            }
-            else 
-            {
-                Console.WriteLine("The ID numbers are not equal");
-            }
+            Console.WriteLine(ID1 == ID2);
+
             Console.ReadLine();
         }
     }
