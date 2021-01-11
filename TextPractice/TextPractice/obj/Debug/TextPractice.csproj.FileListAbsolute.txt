@@ -5,3 +5,10 @@ C:\Users\gma61\source\repos\TextPractice\TextPractice\obj\Debug\TextPractice.csp
 C:\Users\gma61\source\repos\TextPractice\TextPractice\obj\Debug\TextPractice.csproj.CoreCompileInputs.cache
 C:\Users\gma61\source\repos\TextPractice\TextPractice\obj\Debug\TextPractice.exe
 C:\Users\gma61\source\repos\TextPractice\TextPractice\obj\Debug\TextPractice.pdb
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\bin\Debug\TextPractice.exe.config
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\bin\Debug\TextPractice.exe
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\bin\Debug\TextPractice.pdb
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\obj\Debug\TextPractice.csprojAssemblyReference.cache
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\obj\Debug\TextPractice.csproj.CoreCompileInputs.cache
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\obj\Debug\TextPractice.exe
+C:\Users\gma61\Desktop\C# Projects\TextPractice\TextPractice\obj\Debug\TextPractice.pdb

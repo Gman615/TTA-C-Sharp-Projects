@@ -12,12 +12,10 @@ namespace TextPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter a number");
-            int result = Convert.ToInt32(Console.ReadLine());
-            using (StreamWriter file = new StreamWriter(@"C:\Users\gma61\source\repos\number.txt", true)) 
-            {
-                file.WriteLine(result);
-            }
-            Console.WriteLine("The number you entered is " + result);
+            string result = Console.ReadLine();
+            File.WriteAllText(@"C:\Users\gma61\source\repos\number.txt", result);
+            Console.WriteLine(File.ReadAllText(@"C:\Users\gma61\source\repos\number.txt"));
+
             Console.ReadLine();
         }
     }
