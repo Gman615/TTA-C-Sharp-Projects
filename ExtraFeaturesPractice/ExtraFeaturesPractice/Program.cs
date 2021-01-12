@@ -19,6 +19,7 @@ namespace ExtraFeaturesPractice
             Console.WriteLine("How much money do you have in your pocket?");
             int yourIncome = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Your income for the week is $50 and it has been added to your pocket");
+            // uses the constructor, first one
             Person person = new Person(yourIncome);
             
             Console.ReadLine();
