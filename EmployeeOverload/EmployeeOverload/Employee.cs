@@ -10,6 +10,7 @@ namespace EmployeeOverload
     {
         public int ID { get; set; }
         public int num;
+        // two chained constructors
         public Employee()
         {
             num = 0;
@@ -18,7 +19,7 @@ namespace EmployeeOverload
         {
             num = num1;
         }
-
+        // boolian comparison of ID nums
         public static bool operator== (Employee ID1, Employee ID2) 
         {
             if (ID1.num == ID2.num) 
