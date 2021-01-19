@@ -5,3 +5,10 @@ C:\Users\gma61\source\repos\DatePract\DatePract\obj\Debug\DatePract.csprojAssemb
 C:\Users\gma61\source\repos\DatePract\DatePract\obj\Debug\DatePract.csproj.CoreCompileInputs.cache
 C:\Users\gma61\source\repos\DatePract\DatePract\obj\Debug\DatePract.exe
 C:\Users\gma61\source\repos\DatePract\DatePract\obj\Debug\DatePract.pdb
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\bin\Debug\DatePract.exe.config
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\bin\Debug\DatePract.exe
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\bin\Debug\DatePract.pdb
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\obj\Debug\DatePract.csprojAssemblyReference.cache
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\obj\Debug\DatePract.csproj.CoreCompileInputs.cache
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\obj\Debug\DatePract.exe
+C:\Users\gma61\Desktop\C# Projects\DatePract\DatePract\obj\Debug\DatePract.pdb

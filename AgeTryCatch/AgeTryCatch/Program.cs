@@ -10,15 +10,19 @@ namespace AgeTryCatch
     {
         static void Main(string[] args)
         {
+            
+            
             Console.WriteLine("What is your age? Please enter below");
             try
             {
                 int age = Convert.ToInt32(Console.ReadLine());
+                int yearNow = Convert.ToInt32(DateTime.Now.Year);
+                int yearsAgo = yearNow - age;
                 if (age <= 0) 
                 {
                     throw new WrongNumber();
                 }
-                else Console.WriteLine("You are {0} years old!", age);
+                else Console.WriteLine("You were born in {0}.", yearsAgo);
                 
             }
             catch (WrongNumber) 

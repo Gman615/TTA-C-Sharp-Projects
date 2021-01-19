@@ -1,0 +1,39 @@
+﻿@using CarInsurance.Models
+
+
+<div class="row no-gutters m-3">
+  <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+    <div class="card-header text-center">
+      <h2 class="m-0">Customers</h2>
+    </div>
+    <div class="card-body">
+      @foreach (var insurance in Model)
+      {
+        using (Html.BeginForm("ViewInfo", "Admin", FormMethod.Post))
+        {
+          <input type="hidden" name="Id" value="@insurance.Id" />
+          <div class="row mb-3">
+            <label>First Name: </label>
+            <div class="col-2">
+              @insurance.FirstName
+            </div>
+            <label>Last Name: </label>
+            <div class="col">
+              @insurance.LastName
+            </div>
+            <label>Email Address: </label>
+            <div class="col-4">
+              @insurance.EmailAddress
+            </div>
+            <div>
+            <label>Quote Amount: </label>
+              @insurance.Quote
+            </div>
+          </div>
+        }
+
+      }
+
+    </div>
+  </div>
+</div>

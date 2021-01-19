@@ -8,6 +8,7 @@ namespace LambdaPractice
 {
     public class Employee
     {        
+        //creates properties for the class of Employees
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int ID { get; set; }
