@@ -1,0 +1,12 @@
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\CodeFirstTrial.exe.config
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\CodeFirstTrial.exe
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\CodeFirstTrial.pdb
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\EntityFramework.dll
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\EntityFramework.xml
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\obj\Debug\CodeFirstTrial.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\obj\Debug\CodeFirstTrial.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\obj\Debug\CodeFirstTrial.csproj.CopyComplete
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\obj\Debug\CodeFirstTrial.exe
+C:\Users\gma61\source\repos\CodeFirstTrial\CodeFirstTrial\obj\Debug\CodeFirstTrial.pdb
