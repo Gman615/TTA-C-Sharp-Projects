@@ -2,13 +2,13 @@
 These are some small projects I have completed while studying with the Tech Academy using C# and .NET Framework.
 
 # Projects:
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/CarInsurance">Car Insurance</a>
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/PackageExpress">Package Express</a>
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/EnumDoW">Enums</a>
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/StructPractice">StructPractice</a>
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/EmployeeOverload">EmployeeOverload</a>
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/blob/main/DatePract/DatePract/Program.cs">DatePract</a>
-<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/ConsoleAppAssignment">ConsoleApp</a>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/CarInsurance">Car Insurance</a><br>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/PackageExpress">Package Express</a><br>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/EnumDoW">Enums</a><br>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/StructPractice">StructPractice</a><br>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/EmployeeOverload">EmployeeOverload</a><br>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/blob/main/DatePract/DatePract/Program.cs">DatePract</a><br>
+<a href="https://github.com/Gman615/TTA-C-Sharp-Projects/tree/main/ConsoleAppAssignment">ConsoleApp</a><br>
 # Car Insurance
 This uses the MVC framework to create a mock website for a car insurance company. It feature business logic that uses user inputs to calculate an autoinsurance quote based general factors that would influence the price of autoinsurance. The project also includes an Admin page which shows the data entered on the website by various users.
 
