@@ -10,6 +10,7 @@ namespace DoWhile
     {
         static void Main(string[] args)
         {
+            // this program uses while and do while loops with switch statements
             Console.WriteLine("What day of the week is it?");
             string day = Console.ReadLine();
             bool toDay = false;

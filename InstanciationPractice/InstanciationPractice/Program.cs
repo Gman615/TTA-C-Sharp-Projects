@@ -10,6 +10,7 @@ namespace InstanciationPractice
     {
         static void Main(string[] args)
         {
+            // instance of the person object
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";

@@ -11,6 +11,7 @@ namespace InstanciationPractice
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
+        // method created that uses properties from the class
         public void SayName() 
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);

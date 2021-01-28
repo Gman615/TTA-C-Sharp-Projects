@@ -23,6 +23,7 @@ namespace EnumDoW
             }
             Console.ReadLine();
         }
+        // creates an enum of data which is days of the week in this instance
         public enum DayOfTheWeek 
         { 
             Monday,

@@ -11,10 +11,12 @@ namespace ExceptionHandlingLoop
         static void Main(string[] args)
         {
             List<int> numbers = new List<int>() { 18, 33, 99, 15 };
+            // exception added to make sure program does not malfunction when certain input is given by the user
             try
             {
                 Console.WriteLine("Pick a number to divide this list by.");
                 int num = Convert.ToInt32(Console.ReadLine());
+                // iterates through the list, dividing each number in the list by the user provided number
                 for (int i = 0; i < numbers.Count; i++)
                 {
                     int num1 = numbers[i] / num;

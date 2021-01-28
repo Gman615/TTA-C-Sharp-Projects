@@ -10,10 +10,11 @@ namespace PackageExpress
     {
         static void Main(string[] args)
         {
+            // asks for a package weight
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.\nPlease enter the package weight:");
             string weight = Console.ReadLine();
             int weight1 = Convert.ToInt32(weight);
-            
+            // checks package weight, if the package is too heavy, program ends
             if (weight1 <= 50) 
             {
                 Console.WriteLine("Please enter the package width:");
@@ -25,7 +26,8 @@ namespace PackageExpress
                 Console.WriteLine("Please enter the package length:");
                 string length = Console.ReadLine();
                 int length1 = Convert.ToInt32(length);
-                int dimensions = height1 + length1 + width1;                
+                int dimensions = height1 + length1 + width1;  
+                // checks dimensions given, if the package is too big then the program ends, if it is not too big then a calculation is made for the price
                 if (dimensions <= 50) 
                 {
                     int price = ((width1 * length1 * height1) * weight1) / 100;

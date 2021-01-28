@@ -20,7 +20,7 @@ namespace EmployeeOverload
             num = num1;
         }
         // boolian comparison of ID nums
-        public static bool operator== (Employee ID1, Employee ID2) 
+        public static bool operator == (Employee ID1, Employee ID2) 
         {
             if (ID1.num == ID2.num) 
             {
@@ -31,7 +31,7 @@ namespace EmployeeOverload
                 return false;
             }
         }
-        public static bool operator!= (Employee ID1, Employee ID2) 
+        public static bool operator != (Employee ID1, Employee ID2) 
         {            
             if (ID1.num != ID2.num) 
             {
