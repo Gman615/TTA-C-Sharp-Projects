@@ -16,22 +16,22 @@ namespace OptParameters
             Console.WriteLine("Pick a number for this math equation");
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Pick another number for this math equation (note: to leave blank enter 0, input optional)");
-            int num2 = Convert.ToInt32(Console.ReadLine());
-            try
-            {               
-                
-                
-                
-                answer = optpara.Equation(num1, num2);
-                Console.WriteLine(answer);
-            }
-            catch (FormatException ex)
+            string num2 = Console.ReadLine();
+            
+            if (num2 == "") 
             {
                 answer1 = optpara.Equation(num1);
                 Console.WriteLine(answer1);
-            }              
-                
-            
+            }
+            else
+            {
+                int num3 = Convert.ToInt32(num2);
+                answer = optpara.Equation(num1, num3);
+                Console.WriteLine(answer);
+            }
+
+
+
 
             Console.ReadLine();
         }
