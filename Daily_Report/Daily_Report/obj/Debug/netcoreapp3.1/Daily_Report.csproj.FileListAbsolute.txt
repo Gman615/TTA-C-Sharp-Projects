@@ -1,0 +1,13 @@
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.exe
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.deps.json
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.json
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.dev.json
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.dll
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.pdb
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csprojAssemblyReference.cache
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfoInputs.cache
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfo.cs
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.dll
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.pdb
+C:\Users\gma61\source\repos\Daily_Report\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.genruntimeconfig.cache
